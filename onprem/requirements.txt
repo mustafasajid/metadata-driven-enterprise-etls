@@ -1,0 +1,8 @@
+pyspark
+delta-spark
+sqlalchemy
+psycopg2-binary
+mysql-connector-python
+cx_Oracle
+ibm-db
+pyhdb
